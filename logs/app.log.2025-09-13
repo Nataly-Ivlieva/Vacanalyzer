@@ -1,0 +1,34 @@
+2025-09-13 02:37:31 [INFO] app_logger: Vacancy import started...
+2025-09-13 02:37:35 [INFO] app_logger: Page loaded 1, vacancies on the page: 50
+2025-09-13 02:37:38 [INFO] app_logger: Page loaded 2, vacancies on the page: 50
+2025-09-13 02:37:42 [INFO] app_logger: Page loaded 3, vacancies on the page: 50
+2025-09-13 02:37:45 [INFO] app_logger: Page loaded 4, vacancies on the page: 50
+2025-09-13 02:37:49 [INFO] app_logger: Page loaded 5, vacancies on the page: 50
+2025-09-13 02:37:51 [INFO] app_logger: Page loaded 6, vacancies on the page: 50
+2025-09-13 02:37:55 [INFO] app_logger: Page loaded 7, vacancies on the page: 50
+2025-09-13 02:37:58 [INFO] app_logger: Page loaded 8, vacancies on the page: 50
+2025-09-13 02:38:02 [INFO] app_logger: Page loaded 9, vacancies on the page: 50
+2025-09-13 02:38:05 [INFO] app_logger: Page loaded 10, vacancies on the page: 50
+2025-09-13 02:38:07 [INFO] app_logger: Page loaded 11, vacancies on the page: 50
+2025-09-13 02:38:10 [INFO] app_logger: Page loaded 12, vacancies on the page: 50
+2025-09-13 02:38:13 [INFO] app_logger: Page loaded 13, vacancies on the page: 50
+2025-09-13 02:38:16 [INFO] app_logger: Page loaded 14, vacancies on the page: 50
+2025-09-13 02:38:19 [INFO] app_logger: Page loaded 15, vacancies on the page: 50
+2025-09-13 02:38:22 [INFO] app_logger: Page loaded 16, vacancies on the page: 50
+2025-09-13 02:38:25 [INFO] app_logger: Page loaded 17, vacancies on the page: 50
+2025-09-13 02:38:28 [INFO] app_logger: Page loaded 18, vacancies on the page: 50
+2025-09-13 02:38:32 [INFO] app_logger: Page loaded 19, vacancies on the page: 50
+2025-09-13 02:38:35 [INFO] app_logger: Page loaded 20, vacancies on the page: 50
+2025-09-13 02:38:38 [INFO] app_logger: Page loaded 21, vacancies on the page: 50
+2025-09-13 02:38:41 [INFO] app_logger: Page loaded 22, vacancies on the page: 50
+2025-09-13 02:38:45 [INFO] app_logger: Page loaded 23, vacancies on the page: 50
+2025-09-13 02:38:48 [INFO] app_logger: Page loaded 24, vacancies on the page: 50
+2025-09-13 02:38:51 [INFO] app_logger: Page loaded 25, vacancies on the page: 50
+2025-09-13 02:38:54 [INFO] app_logger: Page loaded 26, vacancies on the page: 50
+2025-09-13 02:38:57 [INFO] app_logger: Page loaded 27, vacancies on the page: 50
+2025-09-13 02:39:00 [INFO] app_logger: Page loaded 28, vacancies on the page: 50
+2025-09-13 02:39:03 [INFO] app_logger: Page loaded 29, vacancies on the page: 50
+2025-09-13 03:25:08 [ERROR] app_logger: Request Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-09-13 03:25:09 [INFO] app_logger: Tables created successfully.
+2025-09-13 20:38:06 [INFO] app_logger: Job import completed successfully.
+2025-09-13 20:38:06 [INFO] app_logger: Vacancy import finished successfully!
