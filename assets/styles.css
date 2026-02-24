@@ -1,0 +1,79 @@
+/* ----------------- Фон и шрифты ----------------- */
+body {
+    background-color: #1f2c56;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 40px;
+    font-size: 2em;
+}
+
+/* ----------------- Метки фильтров ----------------- */
+label.filter-label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #ffffff;
+}
+
+/* ----------------- Контейнер фильтров ----------------- */
+.filter-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.filter-col {
+    flex: 1 1 200px; /* гибкая ширина, минимум 200px */
+    display: flex;
+    flex-direction: column;
+}
+
+/* ----------------- Dropdown ----------------- */
+.dash-dropdown {
+    width: 100% !important;
+    box-sizing: border-box;
+}
+
+.Select-multi-value-wrapper {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 5px;
+}
+
+/* Ограничиваем высоту раскрытого списка */
+.Select-menu-outer {
+    max-height: 250px !important;
+    overflow-y: auto !important;
+}
+
+/* Цвета в списке */
+.Select-option {
+    color: black !important;
+    background-color: white !important;
+}
+
+.Select-option.is-focused {
+    background-color: #3498db !important;
+    color: white !important;
+}
+
+/* ----------------- DatePicker ----------------- */
+.dash-date-picker {
+    width: 100% !important;
+    box-sizing: border-box;
+    height: 50px;
+}
+
+/* ----------------- Графики ----------------- */
+.dash-graph, .dash-iframe {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
+    border-radius: 12px;
+    padding: 15px;
+    background-color: #2c3e50;
+}

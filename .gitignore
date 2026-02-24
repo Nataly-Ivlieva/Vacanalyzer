@@ -1,0 +1,19 @@
+# ===== IDE =====
+# IntelliJ IDEA
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+
+# ===== Environment variables =====
+.env
+.env.*
+
+# ===== Data / Datasets =====
+data/
+images/
+
+
