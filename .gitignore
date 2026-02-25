@@ -1,4 +1,17 @@
-.DS_Store
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# Env
+.env
+
+# OS
+.DS_Store.DS_Store
 Thumbs.db
 .idea/
 .vscode/
@@ -10,6 +23,3 @@ data/
 .pytest_cache/
 images/
 vacancies/
-
-
-
