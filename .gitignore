@@ -1,19 +1,13 @@
-# ===== IDE =====
-# IntelliJ IDEA
+.DS_Store
+Thumbs.db
 .idea/
-
-# VS Code
 .vscode/
-
-# Logs
+.conda/
 logs/
-
-# ===== Environment variables =====
 .env
 .env.*
-
-# ===== Data / Datasets =====
 data/
+.pytest_cache/
 images/
 
 
